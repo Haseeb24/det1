@@ -1,1 +1,1 @@
-
+disc.inc (polNumber,dicNumber)
